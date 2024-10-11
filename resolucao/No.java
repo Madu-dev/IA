@@ -1,8 +1,7 @@
 package resolucao;
-
 import java.util.Arrays;
 
-class No {
+public class No {
     private int[] valor;
     private No pai;
 
